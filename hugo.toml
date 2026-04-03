@@ -2,6 +2,7 @@ baseURL = "https://schurvictoria.github.io/"
 languageCode = "en-us"
 title = "Victoria's Blog"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
   [params.homeInfoParams]
